@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace WisielecConsole.Resources
+﻿namespace WisielecConsole.Resources
 {
     public static class LanguageResources
     {

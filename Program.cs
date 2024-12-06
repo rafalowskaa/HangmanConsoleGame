@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Threading;
-using System.Threading.Tasks;
-using WisielecConsole.View;
-using WisielecConsole.Utilities;
-using WisielecConsole.Controller;
+﻿using WisielecConsole.Controller;
 using WisielecConsole.Model;
 using WisielecConsole.Resources;
+using WisielecConsole.Utilities;
+using WisielecConsole.View;
 
 namespace WisielecConsole
 {
@@ -126,7 +121,7 @@ namespace WisielecConsole
             {
                 if (needRefresh)
                 {
-                    ConsoleHelper.ClearSection(0, Console.WindowHeight); 
+                    ConsoleHelper.ClearSection(0, Console.WindowHeight);
                     needRefresh = false;
                 }
 

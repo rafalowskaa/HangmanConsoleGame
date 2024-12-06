@@ -1,5 +1,4 @@
-﻿using System;
-using WisielecConsole.Resources;
+﻿using WisielecConsole.Resources;
 
 namespace WisielecConsole.Utilities
 {
@@ -20,7 +19,7 @@ namespace WisielecConsole.Utilities
                     }
                     catch (ArgumentOutOfRangeException)
                     {
-                        
+
                     }
                 }
 
@@ -215,7 +214,7 @@ namespace WisielecConsole.Utilities
                 int windowWidth = Console.WindowWidth;
                 int infoLength = info.Length;
                 int leftPadding = windowWidth - infoLength - 1;
-                leftPadding = Math.Max(0, leftPadding); 
+                leftPadding = Math.Max(0, leftPadding);
 
                 try
                 {

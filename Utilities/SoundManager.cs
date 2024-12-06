@@ -1,9 +1,5 @@
-﻿using System;
+﻿using NAudio.Wave;
 using System.Collections.Concurrent;
-using System.IO;
-using System.Threading;
-using System.Threading.Tasks;
-using NAudio.Wave;
 using WisielecConsole.Resources;
 
 namespace WisielecConsole.Utilities

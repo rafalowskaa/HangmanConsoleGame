@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace WisielecConsole.Model
+﻿namespace WisielecConsole.Model
 {
     // Klasa reprezentująca wpis w rankingu
     public class RankingEntry

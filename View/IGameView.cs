@@ -1,7 +1,4 @@
-﻿using System;
-using System.Threading;
-using System.Threading.Tasks;
-using WisielecConsole.Model;
+﻿using WisielecConsole.Model;
 
 namespace WisielecConsole.View
 {

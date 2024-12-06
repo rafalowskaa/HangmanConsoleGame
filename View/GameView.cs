@@ -1,11 +1,6 @@
-﻿using System;
-using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
-using WisielecConsole.Model;
+﻿using WisielecConsole.Model;
 using WisielecConsole.Resources;
 using WisielecConsole.Utilities;
-using WisielecConsole.View;
 
 namespace WisielecConsole.View
 {
@@ -111,14 +106,14 @@ namespace WisielecConsole.View
             Console.ResetColor();
 
             // Wyświetlenie imienia gracza
-            
+
             Console.SetCursorPosition(0, 2);
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.Write(playerInfo.PadRight(Console.WindowWidth));
             Console.ResetColor();
 
             // Wyświetlenie punktacji gracza
-            
+
             Console.SetCursorPosition(0, 3);
             Console.ForegroundColor = ConsoleColor.Green;
             Console.Write(scoreInfo.PadRight(Console.WindowWidth));
@@ -238,7 +233,7 @@ namespace WisielecConsole.View
             return choice;
         }
 
-        
+
         // Pobiera postęp odgadywanego słowa
         private string GetWordProgress(GameModel model, int playerId)
         {
@@ -366,7 +361,7 @@ namespace WisielecConsole.View
         // Wyświetla ekran startowy
         public void DisplayStartScreen(string language)
         {
-            ConsoleHelper.ClearSection(0, 30); 
+            ConsoleHelper.ClearSection(0, 30);
             Console.WriteLine("\n\n");
             ConsoleHelper.DisplayColoredTitle(LanguageResources.GetResource("Title", language));
             Console.WriteLine("\n\n");
@@ -378,7 +373,7 @@ namespace WisielecConsole.View
             string roundInfo = $"{LanguageResources.GetResource("Round", language)} {currentRound}/{totalRounds}";
             int line = 4; // Linia, na której będzie wyświetlany komunikat
 
-            for (int i = 0; i < 6; i++) 
+            for (int i = 0; i < 6; i++)
             {
                 if (i % 2 == 0)
                 {
@@ -463,7 +458,7 @@ namespace WisielecConsole.View
 
         public void DisplayRoundStartScreen(int currentRound, int totalRounds, string language)
         {
-            ConsoleHelper.ClearSection(0, 30); 
+            ConsoleHelper.ClearSection(0, 30);
             DisplayRoundStartAsync(currentRound, totalRounds, language).Wait(); // Czekamy na zakończenie asynchronicznej metody
         }
 

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace WisielecConsole.Model
+﻿namespace WisielecConsole.Model
 {
     //klasa przechowująca ustawienia gry
     public class GameSettings

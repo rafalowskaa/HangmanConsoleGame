@@ -1,9 +1,7 @@
 ﻿using NAudio.Wave;
-using System.IO;
-using System;
 
 namespace WisielecConsole.Utilities
-{ 
+{
     public static class BackgroundMusicPlayer
     {
         private static IWavePlayer? _wavePlayer;

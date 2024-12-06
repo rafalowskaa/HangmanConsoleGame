@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Threading;
-using System.Threading.Tasks;
-using WisielecConsole.Model;
+﻿using WisielecConsole.Model;
 using WisielecConsole.View;
 
 namespace WisielecConsole.Controller
 {
-    
+
     public class GameController
     {
         private readonly IGameView _view;
@@ -300,7 +296,7 @@ namespace WisielecConsole.Controller
                     }
                 }
             }
-            
+
         }
 
         // Wyświetla podsumowanie gry i pyta o dalsze działania
@@ -342,9 +338,9 @@ namespace WisielecConsole.Controller
         {
             return difficulty switch
             {
-                DifficultyLevel.Easy => 90,  
-                DifficultyLevel.Medium => 70, 
-                DifficultyLevel.Hard => 40,    
+                DifficultyLevel.Easy => 90,
+                DifficultyLevel.Medium => 70,
+                DifficultyLevel.Hard => 40,
                 _ => 70
             };
         }

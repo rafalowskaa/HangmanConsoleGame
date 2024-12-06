@@ -1,7 +1,5 @@
-﻿using System;
-using WisielecConsole.Model;
+﻿using WisielecConsole.Model;
 using WisielecConsole.Resources;
-using WisielecConsole.View;
 using WisielecConsole.Utilities;
 
 namespace WisielecConsole.View
