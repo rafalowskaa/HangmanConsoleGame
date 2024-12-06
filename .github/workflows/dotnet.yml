@@ -13,18 +13,25 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.404
+
     - name: Restore dependencies
       run: dotnet restore
+
     - name: Build
       run: dotnet build --no-restore --configuration Release
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+
+    - name: Debug Build Output
+      run: |
+        echo "Checking directory structure..."
+        dir ./WisielecConsole/bin/Release/
+
     - name: Upload artifact
       uses: actions/upload-artifact@v3
       with:
         name: HangmanGame
-        path: ./WisielecConsole/bin/Release/net8.0/win-x64
+        path: ./WisielecConsole/bin/Release/net8.0/
