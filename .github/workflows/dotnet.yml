@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - uses: actions/checkout@v4
@@ -27,4 +27,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: HangmanGame
-        path: ./WisielecConsole/bin/Release/
+        path: ./WisielecConsole/bin/Release/net8.0/
