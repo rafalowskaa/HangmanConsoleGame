@@ -27,4 +27,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: HangmanGame
-        path: ./WisielecConsole/bin/Release/net8.0/
+        path: ./WisielecConsole/bin/Release/net8.0/win-x64
