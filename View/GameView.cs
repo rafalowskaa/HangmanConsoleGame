@@ -2,10 +2,10 @@
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using WisielecCore.Model;
-using WisielecCore.Resources;
-using WisielecCore.Utilities;
-using WisielecCore.View;
+using WisielecConsole.Model;
+using WisielecConsole.Resources;
+using WisielecConsole.Utilities;
+using WisielecConsole.View;
 
 namespace WisielecConsole.View
 {

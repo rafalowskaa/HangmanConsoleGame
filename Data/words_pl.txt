@@ -1,0 +1,1296 @@
+Lew
+Słoń
+Delfin
+Nietoperz
+Kangur
+Orzeł
+Ptak koliberek
+Pingwin
+Papuga
+Sowa
+Krokodyl
+Żółw
+Wąż
+Jaszczurka
+Iguana
+Ropucha
+Salamandra
+Żaba
+Traszek
+Axolotl
+Rekin
+Płaszczka
+Karp
+Łosoś
+Złota rybka
+Pająk
+Ośmiornica
+Motyl
+Meduza
+Skorupiak
+Goryl
+Tygrys
+Zebra
+Nosorożec
+Hipopotam
+Gazela
+Antylopa
+Bóbr
+Wiewiórka
+Lis
+Wilk
+Ryś
+Pantera
+Gepard
+Koala
+Biedronka
+Pszczoła
+Mrówka
+Pstrąg
+Krewetka
+Okoń
+Sum
+Flądra
+Sardynka
+Makrela
+Dorsz
+Halibut
+Tuńczyk
+Mątwa
+Langusta
+Krab
+Ślimak
+Pszczołak
+Pszczoła miodna
+Konik polny
+Skorek
+Tarantula
+Jeż
+Łasica
+Borsuk
+Foka
+Mors
+Leniwiec
+Ocelot
+Surikatka
+Pangolin
+Tapir
+Waran
+Salamandra ogoniasta
+Trzmiel
+Szop pracz
+Jastrząb
+Sęp
+Kukułka
+Flaming
+Albatros
+Sójka
+Dzięcioł
+Wrona
+Gołąb
+Wróbel
+Kruk
+Gęś
+Łabędź
+Bażant
+Kanarek
+Pustułka
+Jeleń
+Bizon
+Łoś
+Karmazynowiec
+Kameleon
+Koń
+Królik
+Mysz
+Szczur
+Dziki kot
+Lampart
+Markhor
+Nandu
+Oryks
+Panda
+Rusa
+Suri
+Tapir
+Uakari
+Vicuña
+Walrus
+Xerus
+Yak
+Zarafa
+Żubr
+Żółw morski
+Jabłko
+Banan
+Pomarańcza
+Truskawka
+Wiśnia
+Gruszka
+Winogrona
+Ananas
+Mango
+Kiwi
+Arbuz
+Melon
+Cytryna
+Limonka
+Grejpfrut
+Morela
+Brzoskwinia
+Nektarynka
+Śliwka
+Figa
+Daktyl
+Granat
+Kokos
+Liczi
+Marakuja
+Papaja
+Guawa
+Durian
+Rambutan
+Gwiazdkowiec
+Mandarynka
+Czereśnia
+Jagoda
+Borówka
+Jeżyna
+Malina
+Agrest
+Kasztan
+Papryka
+Czarne porzeczki
+Czerwone porzeczki
+Białe porzeczki
+Kumkwat
+Mirabelka
+Oliwka
+Smoczy owoc
+Pomelo
+Graviola
+Ugli
+Yuzu
+Acerola
+Klementynka
+Goji
+Jabuticaba
+Kaki
+Langsat
+Longan
+Loquat
+Mangostan
+Morwa
+Salak
+Sapodilla
+Sapote
+Tamarind
+Marchew
+Ziemniak
+Pomidor
+Ogórek
+Papryka
+Cebula
+Czosnek
+Kapusta
+Brokuł
+Kalafior
+Seler
+Pietruszka
+Burak
+Szpinak
+Sałata
+Rzodkiewka
+Fasola
+Groch
+Kabaczek
+Dynia
+Bakłażan
+Seler naciowy
+Por
+Rukola
+Kukurydza
+Szczypiorek
+Kalarepa
+Cykoria
+Endywia
+Bób
+Topinambur
+Jarmuż
+Brukselka
+Koper
+Botwina
+Rabarbar
+Cykoria
+Seler korzeniowy
+Czerwona kapusta
+Zielona fasolka
+Cukinia
+Pieczarki
+Kiełki
+Lekarz
+Pielęgniarka
+Nauczyciel
+Inżynier
+Mechanik
+Elektryk
+Kucharz
+Prawnik
+Architekt
+Policjant
+Strażak
+Programista
+Grafik
+Sprzedawca
+Kierowca
+Rolnik
+Fotograf
+Farmaceuta
+Dziennikarz
+Tłumacz
+Bibliotekarz
+Muzyk
+Aktor
+Reżyser
+Pisarz
+Poeta
+Sportowiec
+Trener
+Dietetyk
+Psycholog
+Terapeuta
+Fizjoterapeuta
+Dentysta
+Weterynarz
+Kosmetyczka
+Fryzjer
+Projektant mody
+Model
+Pilot
+Stewardessa
+Kartograf
+Biolog
+Chemik
+Fizyk
+Matematyk
+Geolog
+Astronom
+Oceanograf
+Socjolog
+Antropolog
+Archeolog
+Ekonomista
+Finansista
+Bankier
+Aktuar
+Księgowy
+Audytor
+Doradca podatkowy
+Administrator systemów
+Analityk danych
+Tester oprogramowania
+Kierownik projektu
+Menedżer
+Prezes
+Asystent
+Sekretarka
+Recepcjonista
+Concierge
+Adwokat
+Radca prawny
+Mediator
+Konsultant
+Agent ubezpieczeniowy
+Przedstawiciel handlowy
+Logistyk
+Magazynier
+Pracownik produkcji
+Operator maszyn
+Monter
+Spawacz
+Cieśla
+Murarz
+Hydraulik
+Instalator
+Dekarz
+Ogrodnik
+Hodowca zwierząt
+Pracownik ochrony
+Stróż
+Sprzątacz
+Sprzątaczka
+Kierownik sklepu
+Kelner
+Kelnerka
+Barman
+Barmanka
+Sommelier
+Barista
+Kierowca ciężarówki
+Kierowca autobusu
+Kierowca taksówki
+Rowerzysta dostawczy
+Kurier
+Dostawca
+Pakowacz
+Operator wózka widłowego
+Pracownik linii montażowej
+Kontroler jakości
+Inżynier środowiska
+Technolog żywności
+Pracownik socjalny
+Opiekun
+Niania
+Babysitter
+Opiekun medyczny
+Opiekun seniorów
+Asystentka
+Asystent biurowy
+Recepcjonistka
+Trener personalny
+Instruktor fitness
+Instruktor jogi
+Instruktor tańca
+Tancerz
+Choreograf
+Artysta
+Grafik komputerowy
+Ilustrator
+Animator
+Projektant wnętrz
+Projektant graficzny
+Projektant stron internetowych
+Web developer
+Programista
+Inżynier oprogramowania
+Administrator baz danych
+Administrator sieci
+Copywriter
+Content manager
+Redaktor
+Edytor
+Publikysta
+Blogger
+Vlogger
+Youtuber
+Streamer
+Influencer
+Sprzedawca online
+Inżynier
+Data scientist
+Data engineer
+Data analyst
+Cloud architect
+DevOps engineer
+Project manager
+Scrum master
+Agile coach
+Konsultant
+Malarz
+Rzeźbiarz
+Konserwator zabytków
+Operator dronów
+Inżynier dźwięku
+Reżyser dźwięku
+Producent filmowy
+Producent muzyczny
+Inżynier produkcji
+Manager produkcji
+Projektant produktu
+Kierownik zakupów
+Broker
+Makler
+Księgowy
+Audytor
+Doradca biznesowy
+Trener korporacyjny
+Psychoterapeuta
+Psycholog
+Neuropsycholog
+Terapeuta zajęciowy
+Logopeda
+Ergoterapeuta
+Sociolog
+Politolog
+Filolog
+Lingwista
+Pedagog
+Dyrektor szkoły
+Wychowawca
+Opiekun przedszkolny
+Nauczyciel
+Doktor nauk
+Profesor
+Adiunkt
+Dofinansowany badacz
+Inżynier naukowy
+Badacz
+Statystyk
+Ekolog
+Inżynier genetyk
+Biotechnolog
+Genetyk
+Informatyk medyczny
+Technik
+Laborant
+Koordynator badań
+Patolog
+Radiolog
+Anestezjolog
+Chirurg
+Kardiolog
+Neurolog
+Onkolog
+Dermatolog
+Gastroenterolog
+Endokrynolog
+Hematolog
+Oftalmolog
+Ortopeda
+Psychiatria
+Urolog
+Ginekolog
+Okulista
+Ortodonta
+Stomatolog
+Proktolog
+Radioterapeuta
+Sofa
+Łóżko
+Stół
+Krzesło
+Fotel
+Szafa
+Komoda
+Regał
+Biurko
+Szafka nocna
+Ława
+Pufa
+Półka
+Biurko komputerowe
+Kredens
+Dressing
+Witryna
+Bar
+Kinkiet
+Lampka stołowa
+Szafka RTV
+Kanapa
+Fotel bujany
+Hoker
+Stołek
+Łóżko piętrowe
+Stołek barowy
+Masażer
+Szafka kuchenną
+Stolik kawowy
+Stołek kuchenny
+Zestaw wypoczynkowy
+Szafka na buty
+Szafka na dokumenty
+Łóżko z pojemnikiem
+Szafka na wino
+Stolik nocny
+Krzesło biurowe
+Krzesło tapicerowane
+Sofa narożna
+Stół rozkładany
+Łóżko podwójne
+Szafa przesuwna
+Szafka na telewizor
+Szafka na książki
+Stolik pomocniczy
+Stół jadalny
+Krzesło stołowe
+Fotel salonowy
+Łóżko jednoosobowe
+Kanapa rozkładana
+Szafa na ubrania
+Komoda z lustrem
+Szafka łazienkowa
+Stolik do kawy
+Fotel bujany
+Meble ogrodowe
+Altanka meblowa
+Leżak
+Hamak
+Stołek ogrodowy
+Krzesło ogrodowe
+Ławka ogrodowa
+Zestaw mebli tarasowych
+Szafa ogrodowa
+Parawan
+Gazebo
+Skrzynia ogrodowa
+Balkonowe meble
+Stolik ogrodowy
+Afganistan
+Albania
+Algieria
+Andora
+Angola
+Antigua i Barbuda
+Arabia Saudyjska
+Argentyna
+Armenia
+Australia
+Austria
+Azerbejdżan
+Bahamy
+Bahrajn
+Bangladesz
+Barbados
+Belgia
+Belize
+Benin
+Bhutan
+Białoruś
+Boliwia
+Bośnia i Hercegowina
+Botswana
+Brazylia
+Brunei
+Bułgaria
+Burkina Faso
+Burundi
+Chile
+Chiny
+Chorwacja
+Cypr
+Czechy
+Dania
+Demokratyczna Republika Konga
+Dominika
+Dominikana
+Dżibuti
+Egipt
+Ekwador
+Erytrea
+Estonia
+Eswatini
+Etiopia
+Fidżi
+Filipiny
+Finlandia
+Francja
+Gabon
+Gambia
+Ghana
+Grecja
+Grenada
+Gruzja
+Gujana
+Gwatemala
+Gwinea
+Gwinea Bissau
+Gwinea Równikowa
+Haiti
+Hiszpania
+Holandia
+Honduras
+Indie
+Indonezja
+Irak
+Iran
+Irlandia
+Islandia
+Izrael
+Jamajka
+Japonia
+Jemen
+Jordania
+Kambodża
+Kamerun
+Kanada
+Katar
+Kazachstan
+Kenia
+Kirgistan
+Kiribati
+Kolumbia
+Komory
+Kongo
+Korea Południowa
+Korea Północna
+Kostaryka
+Kuba
+Kuwejt
+Laos
+Lesotho
+Liban
+Liberia
+Libia
+Liechtenstein
+Litwa
+Luksemburg
+Łotwa
+Macedonia Północna
+Madagaskar
+Malawi
+Malediwy
+Malezja
+Mali
+Malta
+Mariany Północne
+Mauretania
+Mauritius
+Meksyk
+Mikronezja
+Mjanma
+Mołdawia
+Monako
+Mongolia
+Montenegro
+Mozambik
+Namibia
+Nauru
+Nepal
+Niemcy
+Niger
+Nigeria
+Nikaragua
+Norwegia
+Nowa Zelandia
+Oman
+Pakistan
+Palau
+Panama
+Papua-Nowa Gwinea
+Paragwaj
+Peru
+Polska
+Portugalia
+Republika Środkowoafrykańska
+Republika Zielonego Przylądka
+Rosja
+Rumunia
+Rwanda
+Saint Kitts i Nevis
+Saint Lucia
+Saint Vincent i Grenadyny
+Salwador
+Samoa
+San Marino
+Senegal
+Serbia
+Seszele
+Sierra Leone
+Singapur
+Słowacja
+Słowenia
+Somalia
+Sri Lanka
+Stany Zjednoczone
+Suazi
+Sudan
+Sudan Południowy
+Surinam
+Szwecja
+Szwajcaria
+Syria
+Tadżykistan
+Tajlandia
+Tanzania
+Timor Wschodni
+Togo
+Tonga
+Trynidad i Tobago
+Tunezja
+Turcja
+Turkmenistan
+Tuvalu
+Uganda
+Ukraina
+Urugwaj
+Uzbekistan
+Vanuatu
+Watykan
+Wenezuela
+Węgry
+Wielka Brytania
+Wietnam
+Włochy
+Wybrzeże Kości Słoniowej
+Wyspy Salomona
+Wyspy Świętego Tomasza i Książęca
+Zambia
+Zimbabwe
+Kabul
+Tirana
+Algier
+Andora la Vella
+Luanda
+Rijad
+Buenos Aires
+Erywań
+Canberra
+Wiedeń
+Baku
+Nassau
+Manama
+Dhaka
+Bridgetown
+Bruksela
+Belmopan
+Thimphu
+Mińsk
+Sucre
+Sarajewo
+Gaborone
+Brasília
+Bandar Seri Begawan
+Sofia
+Wagadugu
+Gitega
+Santiago
+Pekin
+Zagrzeb
+Nikozja
+Praga
+Kopenhaga
+Kinszasa
+Roseau
+Santo Domingo
+Dżibuti
+Kair
+Quito
+Asmara
+Tallin
+Mbabane
+Addis Abeba
+Suva
+Manila
+Helsinki
+Paryż
+Libreville
+Bandżul
+Akra
+Ateny
+Tbilisi
+Georgetown
+Gwatemala
+Konakry
+Bissau
+Malabo
+Madryt
+Amsterdam
+Tegucigalpa
+Nowe Delhi
+Dżakarta
+Bagdad
+Teheran
+Dublin
+Reykjavik
+Jerozolima
+Kingston
+Tokio
+Sana
+Amman
+Phnom Penh
+Jaunde
+Ottawa
+Doha
+Astana
+Nairobi
+Biszkek
+Tarawa
+Bogotá
+Moroni
+Brazzaville
+Seul
+Pjongjang
+Hawana
+Kuwejt
+Wientian
+Maseru
+Bejrut
+Monrovia
+Trypolis
+Vaduz
+Wilno
+Luksemburg
+Ryga
+Skopje
+Antananarywa
+Lilongwe
+Male
+Kuala Lumpur
+Putrajaya
+Bamako
+Valletta
+Saipan
+Nawakszut
+Port Louis
+Meksyk
+Palikir
+Naypyidaw
+Kiszyniów
+Monako
+Ułan Bator
+Podgorica
+Maputo
+Windhuk
+Yaren
+Katmandu
+Berlin
+Niamey
+Abudża
+Managua
+Oslo
+Wellington
+Maskat
+Islamabad
+Ngerulmud
+Panama
+Port Moresby
+Asunción
+Lima
+Warszawa
+Lizbona
+Bangi
+Praia
+Moskwa
+Bukareszt
+Kigali
+Basseterre
+Castries
+Kingstown
+San Salvador
+Apia
+San Marino
+Dakar
+Belgrad
+Victoria
+Freetown
+Singapur
+Bratysława
+Lublana
+Mogadiszu
+Sri Dźajawardanapura Kotte
+Kolombo
+Waszyngton
+Mbabane
+Lobamba
+Chartum
+Dżuba
+Paramaribo
+Sztokholm
+Berno
+Damaszek
+Duszanbe
+Bangkok
+Dodoma
+Dili
+Tunis
+Ankara
+Aszchabad
+Funafuti
+Kampala
+Kijów
+Montevideo
+Taszkent
+Port Vila
+Watykan
+Caracas
+Budapeszt
+Londyn
+Hanoi
+Rzym
+Jamusukro
+Honiara
+Lusaka
+Harare
+Merkury
+Wenus
+Ziemia
+Mars
+Jowisz
+Saturn
+Uran
+Neptun
+Róża
+Tulipan
+Słonecznik
+Dąb
+Sosna
+Świerk
+Brzoza
+Klon
+Buk
+Lipa
+Jodła
+Modrzew
+Wierzba
+Fiołek
+Gerbera
+Chryzantema
+Stokrotka
+Hortensja
+Irys
+Lilia
+Magnolia
+Lawenda
+Petunia
+Nagietek
+Dalia
+Mięta
+Bazylia
+Rozmaryn
+Tymianek
+Pietruszka
+Szałwia
+Fikus
+Skrzydłokwiat
+Paproć
+Kaktus
+Sansewieria
+Dracena
+Monstera
+Alokazja
+Epipremnum
+Pomidor
+Ogórek
+Sałata
+Kapusta
+Marchew
+Ziemniak
+Rzodkiewka
+Szpinak
+Brokuł
+Kalafior
+Papryka
+Cebula
+Czosnek
+Bakłażan
+Fasola
+Groch
+Rabarbar
+Seler
+Seler naciowy
+Cukinia
+Dynia
+Kalarepa
+Rzepa
+Karczoch
+Szczaw
+Szparagi
+Bób
+Sałata masłowa
+Rukola
+Endywia
+Jarmuż
+Jasminum
+Kalia
+Góra
+Rzeka
+Jezioro
+Las
+Pustynia
+Morze
+Plaża
+Dolina
+Wodospad
+Wyspa
+Ląd
+Półwysep
+Wyżyna
+Pora roku
+Śnieg
+Deszcz
+Wiatr
+Burza
+Tęcza
+Słońce
+Księżyc
+Gwiazda
+Planeta
+Kosmos
+Galaktyka
+Kometa
+Meteoryt
+Prąd
+Energia
+Elektrownia
+Robot
+Maszyna
+Narzędzie
+Piła
+Młotek
+Śrubokręt
+Klucz francuski
+Wiertarka
+Nożyczki
+Tkanina
+Bawełna
+Jedwab
+Wełna
+Skóra
+Drewno
+Metal
+Żelazo
+Miedź
+Srebro
+Złoto
+Platyna
+Przemysł
+Fabryka
+Budynek
+Dom
+Mieszkanie
+Blok
+Apartament
+Dach
+Fundament
+Schody
+Balkon
+Taras
+Garaż
+Piwnica
+Ogród
+Park
+Plac
+Ulica
+Aleja
+Bulwar
+Skwer
+Rondo
+Most
+Droga
+Autostrada
+Droga ekspresowa
+Torowisko
+Teren
+Osada
+Miasto
+Wieś
+Miasteczko
+Metropolia
+Stolica
+Kraj
+Kontynent
+Państwo
+Organizacja
+Firma
+Korporacja
+Biuro
+Sklep
+Supermarket
+Kawiarnia
+Restauracja
+Biblioteka
+Szkoła
+Uniwersytet
+Szpital
+Apteka
+Teatr
+Kino
+Muzeum
+Galeria
+Sala koncertowa
+Stadion
+Boisko
+Basen
+Spa
+Siłownia
+Park rozrywki
+Zoo
+Ogród botaniczny
+Lotnisko
+Dworzec
+Port
+Miejscowość
+Gmina
+Powiat
+Województwo
+Granica
+Ratusz
+Katedra
+Kościół
+Klasztor
+Świątynia
+Meczet
+Synagoga
+Wieża
+Zamek
+Pałac
+Baszta
+Mur
+Bramka
+Plac zabaw
+Plac budowy
+Parkiet
+Pokój
+Sypialnia
+Kuchnia
+Łazienka
+Toaleta
+Pralka
+Lodówka
+Kuchenka
+Mikrofalówka
+Zmywarka
+Czajnik
+Toster
+Blender
+Żelazko
+Suszarka
+Telewizja
+Radio
+Internet
+Sieć
+Serwis
+System
+Program
+Aplikacja
+Strona internetowa
+Baza danych
+Kod
+Algorytm
+Interfejs
+Serwer
+Chmura
+Grafika
+Film
+Fotografia
+Muzyka
+Piosenka
+Taniec
+Sztuka
+Rzeźba
+Malarstwo
+Literatura
+Poemat
+Romans
+Komedia
+Dramat
+Horror
+Fantasy
+Sci-fi
+Dokument
+Wiersz
+Bajka
+Opowieść
+Powieść
+Esej
+Reportaż
+Przygoda
+Historia
+Mit
+Legend
+Folklor
+Tradycja
+Kultura
+Dziedzictwo
+Samochód
+Rower
+Telefon
+Komputer
+Telewizor
+Książka
+Gazeta
+Długopis
+Ołówek
+Zegar
+Okulary
+Torba
+Pieniądze
+Klucz
+Drzwi
+Okno
+Stołek
+Lampa
+Miś
+Poduszka
+Kołdra
+Rękawiczki
+Czapka
+Buty
+Skarpety
+Sukienka
+Koszula
+Spodnie
+Kurtka
+Spódnica
+Szal
+Pas
+Portfel
+Biżuteria
+Zegar ścienny
+Lampka nocna
+Dywan
+Zasłona
+Mleko
+Chleb
+Masło
+Ser
+Jajko
+Miód
+Herbata
+Kawa
+Czekolada
+Cukier
+Sól
+Pieprz
+Oliwa
+Ocet
+Mąka
+Ryż
+Makaron
+Zupa
+Sałatka
+Pizza
+Kanapka
+Hamburger
+Kebab
+Sushi
+Lody
+Ciastko
+Ciasteczko
+Lampa stołowa
+Kamera
+Słuchawki
+Głośnik
+Router
+Konsola
+Tablet
+Monitor
+Drukarka
+Lampion
+Świeca
+Brelok
+Zamki
+Książka kucharska
+Mapka
+Kompas
+Latarka
+Termos
+Butelka
+Kubek
+Talerz
+Widelec
+Nóż
+Łyżka
+Garnek
+Patelnia
+Szuflada
+Szafa
+Biurko
+Krzesło
+Lustro
+Półka
+Szafka
+Kanapa
+Fotel
+Łazienka
+Kuchnia
+Salon
+Sypialnia
+Ogród
+Balkon
+Taras
+Piwnica
+Strych
+Basen
+Sauna
+

@@ -4,11 +4,10 @@ using System.IO;
 using System.Threading;
 using System.Threading.Tasks;
 using WisielecConsole.View;
-using WisielecCore.Utilities;
-using WisielecCore.Controller;
-using WisielecCore.Model;
-using WisielecCore.View;
-using WisielecCore.Resources;
+using WisielecConsole.Utilities;
+using WisielecConsole.Controller;
+using WisielecConsole.Model;
+using WisielecConsole.Resources;
 
 namespace WisielecConsole
 {
@@ -161,6 +160,8 @@ namespace WisielecConsole
                         break;
                     case 4:
                         CurrentLanguage = SelectLanguage();
+                        break;
+                    default:
                         break;
                 }
             }

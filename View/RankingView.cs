@@ -1,8 +1,8 @@
 ﻿using System;
-using WisielecCore.Model;
-using WisielecCore.Resources;
-using WisielecCore.Utilities;
-using WisielecCore.View;
+using WisielecConsole.Model;
+using WisielecConsole.Resources;
+using WisielecConsole.View;
+using WisielecConsole.Utilities;
 
 namespace WisielecConsole.View
 {
