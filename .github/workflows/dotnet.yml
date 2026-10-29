@@ -2,36 +2,33 @@ name: .NET
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [master]
   pull_request:
-    branches: [ "master" ]
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
-
     runs-on: windows-latest
-
+    timeout-minutes: 15
     steps:
-    - uses: actions/checkout@v4
-
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v4
-      with:
-        dotnet-version: 8.0.404
-
-    - name: Restore dependencies
-      run: dotnet restore
-
-    - name: Build
-      run: dotnet build --no-restore --configuration Release
-
-    - name: Debug Build Output
-      run: |
-        echo "Checking directory structure..."
-        dir ./WisielecConsole/bin/Release/
-
-    - name: Upload artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: HangmanGame
-        path: ./WisielecConsole/bin/Release/net8.0/
+      - uses: actions/checkout@v7
+      - uses: actions/setup-dotnet@v6
+        with:
+          dotnet-version: '8.0.x'
+      - name: Restore dependencies
+        run: dotnet restore WisielecConsole.csproj
+      - name: Build
+        run: dotnet build WisielecConsole.csproj --no-restore --configuration Release
+      - name: Publish
+        run: dotnet publish WisielecConsole.csproj --no-build --configuration Release --output artifacts/HangmanGame
+      - name: Upload artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: HangmanGame
+          path: artifacts/HangmanGame/
+          if-no-files-found: error
+          retention-days: 14
