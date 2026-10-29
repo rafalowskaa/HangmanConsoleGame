@@ -51,3 +51,7 @@ Keep the copied `Data` and `Sounds` directories alongside the compiled applicati
 ## Project status
 
 This is a console portfolio project. The repository has a build workflow, but no dedicated automated test project. The presence of a workflow is not a claim that its latest run passed.
+
+## Licence
+
+Original project source code is licensed under [MIT](LICENSE). Third-party libraries and bundled media remain subject to their own rights and licences.
